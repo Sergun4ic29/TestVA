@@ -1,0 +1,27 @@
+{
+	"uuid": "79b8d2e6-502c-46b2-84a7-c207245702af",
+	"name": "Контекст_Проверка наличия номенклатуры Туфли",
+	"description": "",
+	"children": [
+		"e42beb75-4782-430c-9b7b-6bfea10b7dcc"
+	],
+	"befores": [
+		{
+			"name": "Дано Я открыл новый сеанс TestClient или подключил уже существующий",
+			"start": 1642196713497,
+			"stop": 1642196713721,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"start": null,
+	"stop": null
+}
